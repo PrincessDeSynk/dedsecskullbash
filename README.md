@@ -2,7 +2,7 @@
 WATCH_DOGS // Dedsec skull ASCII art terminal project.
 
 <h2> Usage </h2>
-
+In the Releases tab, download dedsecskull.zip and extract it.
 1. Install Greenscreen font
 2. Change Terminal font to Greenscreen
 3. `cd dedsecskull`
